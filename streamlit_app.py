@@ -9,6 +9,6 @@ streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
 streamlit.text('Hard-Boiled Free-Range Egg')
 
-streamlit.text('Thank you very much! and yes I've never used emojis before in my work, I even haven't been aware of Emojipedia/Emojuguide 😝')
+streamlit.text('Thank you very much! and yes I have never used emojis before in my work, I even have not been aware of Emojipedia/Emojuguide 😝')
 
 
